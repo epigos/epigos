@@ -6,7 +6,7 @@ I'm **Philip Adzanoukpe**, a Backend and Machine Learning Engineer and a startup
 
 ## 1.0.0 (2022-04-01)
 
-- 🚀 Founded [Epigos AI] - An all-in-one computer vision platform, empowering you to effortlessly annotate data, train cutting-edge models, and deploy AI solutions.
+- 🚀 Founded [Epigos AI](https://epigos.ai) - An all-in-one computer vision platform, empowering you to effortlessly annotate data, train cutting-edge models, and deploy AI solutions.
 
 ## 0.1.1 (2020-12-12)
 
